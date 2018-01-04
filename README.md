@@ -1,2 +1,2 @@
 # hello-world
-outputting "hello world" text
+Hi, my name is WeiYin and i am learning SAS
